@@ -4,7 +4,7 @@ I'm [_altos](https://altoszin.carrd.co/), a student from University of the Phili
 
 As a student pursuing BS Computer Engineering, I deal with codes, electronics, and calculus.
 
-If an idea comes up to my head, I start doing it on impulsem,
+If an idea comes up to my head, I start doing it on impulse,
 
 otherwise, I won't do it.
 
@@ -15,19 +15,4 @@ if there comes a time you need help, ask me in any of my 3 social media platform
 ## Fun Facts:
 > ✺ I play a lot of games!  
 > ✺ I cook, eat, and sleep.
-
-
-<!--
-**altoszin/altoszin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ✺ I read a lot of novels, particularly digital ones.
