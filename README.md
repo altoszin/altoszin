@@ -14,5 +14,5 @@ if there comes a time you need help, ask me in any of my 3 social media platform
 
 ## Fun Facts:
 > ✺ I play a lot of games!  
-> ✺ I cook, eat, and sleep.
+> ✺ I cook, eat, and sleep.  
 > ✺ I read a lot of novels, particularly digital ones.
