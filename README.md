@@ -1,6 +1,6 @@
-## GOOD DAY FELLOW SOLDIER
+## 🫡 GOOD DAY FELLOW SOLDIER
 
-I'm [_altos]https://altoszin.carrd.co/, a student from University of the Philippines, Diliman.
+I'm _altos[https://altoszin.carrd.co/], a student from University of the Philippines, Diliman.
 
 As a student pursuing BS Computer Engineering, I deal with codes, electronics, and calculus.
 
@@ -13,8 +13,8 @@ My main focus right now is to build my skills to become a Cybersecurity Speciali
 if there comes a time you need help, ask me in any of my 3 social media platforms I particularly am active on.
 
 ## Fun Facts:
-✺ I play a lot of games!
-✺ I cook, eat, and sleep.
+> ✺ I play a lot of games!  
+> ✺ I cook, eat, and sleep.
 
 
 <!--
