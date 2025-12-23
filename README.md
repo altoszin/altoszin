@@ -1,6 +1,6 @@
 ## 🫡 GOOD DAY FELLOW SOLDIER
 
-I'm [_altos}(https://altoszin.carrd.co/), a student from University of the Philippines, Diliman.
+I'm [_altos](https://altoszin.carrd.co/), a student from University of the Philippines, Diliman.
 
 As a student pursuing BS Computer Engineering, I deal with codes, electronics, and calculus.
 
